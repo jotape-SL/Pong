@@ -1,7 +1,11 @@
 body{
     background-color: yellow;
 }
-
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 16rem;
+}
 .result{
     margin: 0 auto;
 }
