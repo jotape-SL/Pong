@@ -19,6 +19,7 @@ function draw() {
 }
 
 //sons
+
 let raquetada;
 let ponto;
 let trilha;
