@@ -14,10 +14,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:luanaggoncalves/technicalshare.frontend.git
+$ git clone git@github.com:/jotape-SL/Pong.git
 
 # Abra o terminal e entre na pasta
-$ cd ./technicalshare.frontend
+$ cd ./Pong
 
 # Abra o arquivo index.html no navegador de sua preferência
 ```
