@@ -9,7 +9,7 @@ Recriei com JavaScrpit o jogo Pong(1972). Pong é um jogo eletrônico de esporte
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), Editor de texto de sua preferência.
 
-#### 🎲 Rodando o Frontend
+#### 🎲 Rodando o projeto
 
 ```bash
 
