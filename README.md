@@ -17,7 +17,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone git@github.com:/jotape-SL/Pong.git
 
 # Abra o terminal e entre na pasta
-$ cd ./Pong
+$ cd ./Pong.git
 
 # Abra o arquivo index.html no navegador de sua preferência
 ```
