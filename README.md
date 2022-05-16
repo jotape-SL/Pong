@@ -1,6 +1,6 @@
 # Pong
 
-Recriei com JavaScrpit o jogo Pong(1972). Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, desenvolvido pela Atari e lançado originalmente em 1972. Foi um dos primeiros jogos de arcade.
+Recriei com JavaScrpit o jogo Pong. Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, desenvolvido pela Atari e lançado originalmente em 1972. Foi um dos primeiros jogos de arcade.
 
 ## 🚀 Como executar o projeto
 
@@ -21,6 +21,9 @@ $ cd ./Pong.git
 
 # Abra o arquivo index.html no navegador de sua preferência
 ```
+## 🕸 Link para o site ``(Deploy feito pelo Vercel)``
+
+https://pong-peach.vercel.app/
 
 ---
 
