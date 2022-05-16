@@ -1,6 +1,7 @@
 function setup() {
     createCanvas(600, 400);
     trilha.loop();
+    trilha.setVolume(.07)
 }
 
 function draw() {
@@ -53,10 +54,12 @@ function marcaPontos() {
     if (xBolinha > 590) {
         meusPontos += 1
         ponto.play();
+        ponto.setVolume(.08)
     }
     if (xBolinha < 10) {
         oponentePontos += 1
         ponto.play();
+        ponto.setVolume(.08)
     }
 }
 
@@ -113,6 +116,7 @@ function colisaoRaquete(x, y) {
     if (colidiu) {
         velocidadeXBolinha *= -1;
         raquetada.play();
+        raquetada.setVolume(.3)
     }
 }
 
