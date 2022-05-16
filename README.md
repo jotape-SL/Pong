@@ -23,7 +23,7 @@ $ cd ./Pong.git
 ```
 ## 🕸 Link para o site ``(Deploy feito pelo Vercel)``
 
-https://pong-peach.vercel.app/
+- **[Pong](https://pong-peach.vercel.app/)**
 
 ---
 
