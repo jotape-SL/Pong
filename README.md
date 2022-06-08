@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
-- **[CSS](https://www.w3.org/Style/CSS/Overview.en.html)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
 ## ✒️ Autores
