@@ -32,7 +32,7 @@ $ cd ./Pong.git
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-- **[HTML](https://www.w3.org/html/)**
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://www.w3.org/Style/CSS/Overview.en.html)**
 - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 
